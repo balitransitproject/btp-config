@@ -1,9 +1,12 @@
 {
-    "end_date": "2019-12-19",
+    "end_date": "2019-12-31",
+    "included_lines": [
+        "1"
+    ],
     "lines": {
         "1": [
             {
-                "exeptions": [
+                "exceptions": [
                     "2019-03-07"
                 ],
                 "from": "Monkey Forest Central Parking",
